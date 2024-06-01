@@ -1,0 +1,11 @@
+.redborder{
+    border: 1px solid red;
+}
+.redborder:focus {
+    border: 1px solid red;
+    outline: none;
+}
+.blackBorder{
+    border: 1px solid black;
+
+}
